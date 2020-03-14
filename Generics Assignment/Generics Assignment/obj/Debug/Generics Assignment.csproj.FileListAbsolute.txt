@@ -1,0 +1,6 @@
+C:\Users\Corry\source\repos\Generics Assignment\Generics Assignment\bin\Debug\Generics Assignment.exe.config
+C:\Users\Corry\source\repos\Generics Assignment\Generics Assignment\bin\Debug\Generics Assignment.exe
+C:\Users\Corry\source\repos\Generics Assignment\Generics Assignment\bin\Debug\Generics Assignment.pdb
+C:\Users\Corry\source\repos\Generics Assignment\Generics Assignment\obj\Debug\Generics Assignment.csprojAssemblyReference.cache
+C:\Users\Corry\source\repos\Generics Assignment\Generics Assignment\obj\Debug\Generics Assignment.exe
+C:\Users\Corry\source\repos\Generics Assignment\Generics Assignment\obj\Debug\Generics Assignment.pdb
