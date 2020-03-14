@@ -1,0 +1,6 @@
+C:\Users\Corry\source\repos\Enum Assignment\Enum Assignment\bin\Debug\Enum Assignment.exe.config
+C:\Users\Corry\source\repos\Enum Assignment\Enum Assignment\bin\Debug\Enum Assignment.exe
+C:\Users\Corry\source\repos\Enum Assignment\Enum Assignment\bin\Debug\Enum Assignment.pdb
+C:\Users\Corry\source\repos\Enum Assignment\Enum Assignment\obj\Debug\Enum Assignment.csprojAssemblyReference.cache
+C:\Users\Corry\source\repos\Enum Assignment\Enum Assignment\obj\Debug\Enum Assignment.exe
+C:\Users\Corry\source\repos\Enum Assignment\Enum Assignment\obj\Debug\Enum Assignment.pdb
