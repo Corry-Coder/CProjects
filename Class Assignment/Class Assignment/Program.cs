@@ -10,10 +10,10 @@ namespace Class_Assignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter a name");
+            Console.WriteLine("Please enter a number");
             string data = Console.ReadLine();
             Math mathClass = new Math();
-            string sum = mathClass.Operations(data);
+            int sum = mathClass.Operations(data);
             Console.WriteLine(sum);
 
 

@@ -8,16 +8,18 @@ namespace Class_Assignment
 {
     public class Math
     {
-        public string Operations(string data)
+        public int Operations(string data)
         {
-            string sum = data + "Hello";
-            return sum;
+            string input = data;
+            string input2 = "100";
+            int sum = int.Parse(input) + int.Parse(input2);
+            return Convert.ToInt32(sum);
         }
 
         public decimal Operations(decimal product)
         {
             decimal answer = product * 100;
-            return answer;
+            return Convert.ToInt32(answer);
         }
 
         public int Operations(int difference)
