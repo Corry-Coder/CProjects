@@ -75,14 +75,11 @@ namespace Lambda_Assignment
             List<Employee> joeList = new List<Employee>();
 
 
-            foreach (Employee employee in employees)
+            foreach (Employee emp in employees)
             {
-                if (employee.firstName == "Joe")
+                if (emp.firstName == "Joe")
                 {
-                    Employee joeList1 = new Employee();
-                    joeList1.firstName = "Joe";
-                    joeList.Add(joeList1);
-                    Console.WriteLine(joeList);
+                    Console.WriteLine(emp.firstName);
                     Console.ReadLine();
                 }
 
@@ -93,6 +90,15 @@ namespace Lambda_Assignment
             foreach (Employee employee in newList)
             {
                 Console.WriteLine(employee.firstName);
+                Console.ReadLine();
+            }
+
+            List<Employee> newList2 = employees.Where(x => x.Id > 5).ToList();
+
+            foreach (Employee emp in newList2)
+            {
+                
+                Console.WriteLine(emp.firstName);
                 Console.ReadLine();
             }
         }
