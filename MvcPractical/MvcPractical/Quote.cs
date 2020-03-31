@@ -22,7 +22,7 @@ namespace MvcPractical
         public string CarModel { get; set; }
         public string Coverage { get; set; }
         public string DateOfBirth { get; set; }
-        public Nullable<int> CarYear { get; set; }
+        public int CarYear { get; set; }
         public Nullable<int> DUI { get; set; }
         public Nullable<int> SpeedingTickets { get; set; }
         public int QuotePrice { get; set; }
