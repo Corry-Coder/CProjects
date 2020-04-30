@@ -4,3 +4,12 @@ C:\Users\Corry\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
 C:\Users\Corry\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
 C:\Users\Corry\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\Corry\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Local Repo\CProjects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Local Repo\CProjects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Local Repo\CProjects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Local Repo\CProjects\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Local Repo\CProjects\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Local Repo\CProjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
+C:\Local Repo\CProjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Local Repo\CProjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Local Repo\CProjects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
